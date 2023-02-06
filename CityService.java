@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SmartCity {
+public class CityService {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 
